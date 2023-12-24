@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <script src="balanced_tree.js"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <title>AVL Tree Priority Queue Test</title>
+  </head>
+  <body>
+    <script>
+      // Test the AVLTree implementation as a priority queue
+      const pq = new AVLTree();
+      pq.insert(3);//, 3);
+      pq.insert(1);//, 1);
+      pq.insert(2);//, 2);
+      pq.insert(4);
+      pq.insert(0);
+
+      console.log(pq.top()); 
+      console.log(pq.pop()); 
+      console.log(pq.top()); 
+      console.log(pq.pop()); 
+      console.log(pq.top()); 
+      console.log(pq.pop()); 
+      console.log(pq.top()); 
+      console.log(pq.pop()); 
+    </script>
+  </body>
+</html>

@@ -1,1 +1,1 @@
-This repo is a backup of UMich EECS367 projects. Students from UMich should obey the Honor Code when accessing this repo. 
+This repo is a backup of UMich EECS367 (Introdution to Autonomous Robotics) projects. Students from UMich should obey the Honor Code when accessing this repo. 
